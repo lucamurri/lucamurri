@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 46" width="144" height="46" role="img" aria-label="Chicago, IL">
+  <title>Chicago, IL</title>
+  <style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .serif { font-family: Charter, 'Iowan Old Style', Georgia, Cambria, 'Times New Roman', serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fade { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="1" y="1" width="142" height="44" rx="22.0" fill="none" stroke="none" stroke-width="1.5"/>
+  
+  <g transform="translate(20,14.0) scale(.75)" fill="#8d96a0"><path fill-rule="evenodd" d="M12 1.8a7.4 7.4 0 0 0-7.4 7.4c0 5.4 7.4 13 7.4 13s7.4-7.6 7.4-13A7.4 7.4 0 0 0 12 1.8zm0 10.2a2.8 2.8 0 1 1 0-5.6 2.8 2.8 0 0 1 0 5.6z"/></g>
+  <text class="sans" x="48" y="28.5" font-size="15.5" font-weight="600" fill="#8d96a0">Chicago, IL</text>
+</svg>

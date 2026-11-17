@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 46" width="140" height="46" role="img" aria-label="Email me">
+  <title>Email me</title>
+  <style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .serif { font-family: Charter, 'Iowan Old Style', Georgia, Cambria, 'Times New Roman', serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fade { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="1" y="1" width="138" height="44" rx="22.0" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  
+  <g transform="translate(20,14.0) scale(.75)" fill="#800000"><rect stroke="#800000" x="2.5" y="5" width="19" height="14" rx="2.5" fill="none" stroke-width="2"/><path stroke="#800000" d="M3.5 6.5 12 13l8.5-6.5" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text class="sans" x="48" y="28.5" font-size="15.5" font-weight="600" fill="#1f2328">Email me</text>
+</svg>

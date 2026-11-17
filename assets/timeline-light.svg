@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Shipping log 2026: HomeDef, Pharma Access Atlas and Case Interview Engine milestones">
+  <title>Shipping log 2026: HomeDef, Pharma Access Atlas and Case Interview Engine milestones</title>
+  <style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .serif { font-family: Charter, 'Iowan Old Style', Georgia, Cambria, 'Times New Roman', serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fade { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes pop { 0% { transform: scale(0); } 70% { transform: scale(1.25); } 100% { transform: scale(1); } }
+  @keyframes ping { 0% { transform: scale(.6); opacity: .9; } 100% { transform: scale(2.6); opacity: 0; } }
+  .axis { transform-origin: 60px 0; animation: grow 1.6s cubic-bezier(.3,.7,.2,1) .2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; }
+  .ping { transform-box: fill-box; transform-origin: center; animation: ping 1.8s ease-out 2.4s infinite both; }
+  .e0 .pop { animation: pop .5s ease-out 0.45s both; }
+  .e0 .t { animation: fade .5s ease-out 0.60s both; }
+  .e1 .pop { animation: pop .5s ease-out 0.65s both; }
+  .e1 .t { animation: fade .5s ease-out 0.80s both; }
+  .e2 .pop { animation: pop .5s ease-out 0.85s both; }
+  .e2 .t { animation: fade .5s ease-out 1.00s both; }
+  .e3 .pop { animation: pop .5s ease-out 1.05s both; }
+  .e3 .t { animation: fade .5s ease-out 1.20s both; }
+  .e4 .pop { animation: pop .5s ease-out 1.25s both; }
+  .e4 .t { animation: fade .5s ease-out 1.40s both; }
+  .e5 .pop { animation: pop .5s ease-out 1.45s both; }
+  .e5 .t { animation: fade .5s ease-out 1.60s both; }
+  .e6 .pop { animation: pop .5s ease-out 1.65s both; }
+  .e6 .t { animation: fade .5s ease-out 1.80s both; }
+  </style>
+  <text class="sans t0" x="48" y="38" font-size="13" font-weight="700" letter-spacing="2.2" fill="#800000">SHIPPING LOG  ·  2026</text>
+  <line class="axis" x1="60" y1="168" x2="1128" y2="168" stroke="#d8dee4" stroke-width="3" stroke-linecap="round"/>
+  
+  <g class="e0">
+    <g class="t"><line x1="92.0" y1="127" x2="92.0" y2="156" stroke="#d8dee4" stroke-width="1.5"/>
+      <text class="mono" x="92.0" y="70" font-size="12.5" font-weight="700" letter-spacing="1" fill="#b7791f" text-anchor="middle">JUL 2026</text>
+      <text class="sans" x="92.0" y="94" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">Started HomeDef</text>
+      <text class="sans" x="92.0" y="115" font-size="13.5" fill="#656d76" text-anchor="middle">joined GitHub, first commit</text>
+    </g>
+    <circle class="pop" cx="92.0" cy="168" r="9" fill="#ffffff" stroke="#b7791f" stroke-width="4"/>
+  </g>
+  <g class="e1">
+    <g class="t"><line x1="251.7" y1="180" x2="251.7" y2="218" stroke="#d8dee4" stroke-width="1.5"/>
+      <text class="mono" x="251.7" y="238" font-size="12.5" font-weight="700" letter-spacing="1" fill="#b7791f" text-anchor="middle">OCT 2026</text>
+      <text class="sans" x="251.7" y="262" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">HomeDef tenant portal</text>
+      <text class="sans" x="251.7" y="283" font-size="13.5" fill="#656d76" text-anchor="middle">bills, chat, ROI reports</text>
+    </g>
+    <circle class="pop" cx="251.7" cy="168" r="9" fill="#ffffff" stroke="#b7791f" stroke-width="4"/>
+  </g>
+  <g class="e2">
+    <g class="t"><line x1="411.3" y1="127" x2="411.3" y2="156" stroke="#d8dee4" stroke-width="1.5"/>
+      <text class="mono" x="411.3" y="70" font-size="12.5" font-weight="700" letter-spacing="1" fill="#2f6fd6" text-anchor="middle">NOV 4</text>
+      <text class="sans" x="411.3" y="94" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">Pharma Access Atlas live</text>
+      <text class="sans" x="411.3" y="115" font-size="13.5" fill="#656d76" text-anchor="middle">FDA × EU access dashboard</text>
+    </g>
+    <circle class="pop" cx="411.3" cy="168" r="9" fill="#ffffff" stroke="#2f6fd6" stroke-width="4"/>
+  </g>
+  <g class="e3">
+    <g class="t"><line x1="571.0" y1="180" x2="571.0" y2="218" stroke="#d8dee4" stroke-width="1.5"/>
+      <text class="mono" x="571.0" y="238" font-size="12.5" font-weight="700" letter-spacing="1" fill="#0f766e" text-anchor="middle">NOV 4</text>
+      <text class="sans" x="571.0" y="262" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">Case Interview Engine live</text>
+      <text class="sans" x="571.0" y="283" font-size="13.5" fill="#656d76" text-anchor="middle">free, no sign-up</text>
+    </g>
+    <circle class="pop" cx="571.0" cy="168" r="9" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+  </g>
+  <g class="e4">
+    <g class="t"><line x1="730.7" y1="127" x2="730.7" y2="156" stroke="#d8dee4" stroke-width="1.5"/>
+      <text class="mono" x="730.7" y="70" font-size="12.5" font-weight="700" letter-spacing="1" fill="#2f6fd6" text-anchor="middle">NOV 5</text>
+      <text class="sans" x="730.7" y="94" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">Atlas in four languages</text>
+      <text class="sans" x="730.7" y="115" font-size="13.5" fill="#656d76" text-anchor="middle">EN · IT · DE · FR</text>
+    </g>
+    <circle class="pop" cx="730.7" cy="168" r="9" fill="#ffffff" stroke="#2f6fd6" stroke-width="4"/>
+  </g>
+  <g class="e5">
+    <g class="t"><line x1="890.3" y1="180" x2="890.3" y2="218" stroke="#d8dee4" stroke-width="1.5"/>
+      <text class="mono" x="890.3" y="238" font-size="12.5" font-weight="700" letter-spacing="1" fill="#0f766e" text-anchor="middle">NOV 5</text>
+      <text class="sans" x="890.3" y="262" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">Fit-interview practice</text>
+      <text class="sans" x="890.3" y="283" font-size="13.5" fill="#656d76" text-anchor="middle">43 behavioral questions</text>
+    </g>
+    <circle class="pop" cx="890.3" cy="168" r="9" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+  </g>
+  <g class="e6">
+    <g class="t"><line x1="1050.0" y1="127" x2="1050.0" y2="156" stroke="#d8dee4" stroke-width="1.5"/>
+      <text class="mono" x="1050.0" y="70" font-size="12.5" font-weight="700" letter-spacing="1" fill="#0f766e" text-anchor="middle">NOV 11</text>
+      <text class="sans" x="1050.0" y="94" font-size="16" font-weight="700" fill="#1f2328" text-anchor="middle">80 original cases</text>
+      <text class="sans" x="1050.0" y="115" font-size="13.5" fill="#656d76" text-anchor="middle">up from 60 a week earlier</text>
+    </g>
+    <circle class="pop" cx="1050.0" cy="168" r="9" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+  </g>
+  <g class="enow">
+    <circle class="ping" cx="1128" cy="168" r="8" fill="#800000"/>
+    <circle cx="1128" cy="168" r="7" fill="#800000"/>
+    <text class="mono" x="1128" y="146" font-size="12.5" font-weight="700" letter-spacing="1" fill="#800000" text-anchor="middle">NOW</text>
+    <text class="sans" x="1128" y="202" font-size="13.5" fill="#656d76" text-anchor="middle">building</text>
+  </g>
+  <circle cx="730" cy="308" r="4.5" fill="#b7791f"/><text class="sans" x="740" y="312.5" font-size="12.5" fill="#656d76">HomeDef</text><circle cx="830" cy="308" r="4.5" fill="#2f6fd6"/><text class="sans" x="840" y="312.5" font-size="12.5" fill="#656d76">Pharma Access Atlas</text><circle cx="990" cy="308" r="4.5" fill="#0f766e"/><text class="sans" x="1000" y="312.5" font-size="12.5" fill="#656d76">Case Interview Engine</text>
+</svg>

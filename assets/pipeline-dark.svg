@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="How I work: question, data, analysis, product, people">
+  <title>How I work: question, data, analysis, product, people</title>
+  <style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .serif { font-family: Charter, 'Iowan Old Style', Georgia, Cambria, 'Times New Roman', serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fade { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  @keyframes run { 0% { transform: translateX(0); opacity: 0; } 4% { opacity: 1; } 77.0% { opacity: 1; } 80.0%, 100% { transform: translateX(900.0px); opacity: 0; } }
+  @keyframes glow { 0%, 100% { opacity: 0; } 4% { opacity: 1; } 30% { opacity: 0; } }
+  .dot { animation: run 6.0s cubic-bezier(.45,.05,.55,.95) 1s infinite both; }
+  .intro { animation: fade .6s ease-out both; }
+  .g0 { animation: glow 6.0s ease-out 0.85s infinite both; }
+  .c0 { animation-delay: 0.10s; }
+  .g1 { animation: glow 6.0s ease-out 2.05s infinite both; }
+  .c1 { animation-delay: 0.22s; }
+  .g2 { animation: glow 6.0s ease-out 3.25s infinite both; }
+  .c2 { animation-delay: 0.34s; }
+  .g3 { animation: glow 6.0s ease-out 4.45s infinite both; }
+  .c3 { animation-delay: 0.46s; }
+  .g4 { animation: glow 6.0s ease-out 5.65s infinite both; }
+  .c4 { animation-delay: 0.58s; }
+  </style>
+  <line x1="150.0" y1="176" x2="1050.0" y2="176" stroke="#30363d" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <circle cx="150.0" cy="176" r="3.5" fill="#30363d"/><circle cx="375.0" cy="176" r="3.5" fill="#30363d"/><circle cx="600.0" cy="176" r="3.5" fill="#30363d"/><circle cx="825.0" cy="176" r="3.5" fill="#30363d"/><circle cx="1050.0" cy="176" r="3.5" fill="#30363d"/>
+  <path d="M257.5,83.0 l7,6 l-7,6" fill="none" stroke="#8d96a0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M482.5,83.0 l7,6 l-7,6" fill="none" stroke="#8d96a0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M707.5,83.0 l7,6 l-7,6" fill="none" stroke="#8d96a0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M932.5,83.0 l7,6 l-7,6" fill="none" stroke="#8d96a0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <g class="intro c0">
+    <rect x="52.0" y="24" width="196" height="130" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <rect class="g0" x="52.0" y="24" width="196" height="130" rx="14" fill="#2a1517" stroke="#f47c7c" stroke-width="2"/>
+    <text class="mono" x="72.0" y="56" font-size="13" font-weight="700" fill="#f47c7c">01</text>
+    <text class="sans" x="72.0" y="86" font-size="21" font-weight="700" fill="#e6edf3">Question</text>
+    <text class="sans" x="72.0" y="112" font-size="14" fill="#8d96a0">Start from a real</text>
+    <text class="sans" x="72.0" y="131" font-size="14" fill="#8d96a0">business problem</text>
+  </g>
+  <g class="intro c1">
+    <rect x="277.0" y="24" width="196" height="130" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <rect class="g1" x="277.0" y="24" width="196" height="130" rx="14" fill="#2a1517" stroke="#f47c7c" stroke-width="2"/>
+    <text class="mono" x="297.0" y="56" font-size="13" font-weight="700" fill="#f47c7c">02</text>
+    <text class="sans" x="297.0" y="86" font-size="21" font-weight="700" fill="#e6edf3">Data</text>
+    <text class="sans" x="297.0" y="112" font-size="14" fill="#8d96a0">Public sources,</text>
+    <text class="sans" x="297.0" y="131" font-size="14" fill="#8d96a0">every value cited</text>
+  </g>
+  <g class="intro c2">
+    <rect x="502.0" y="24" width="196" height="130" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <rect class="g2" x="502.0" y="24" width="196" height="130" rx="14" fill="#2a1517" stroke="#f47c7c" stroke-width="2"/>
+    <text class="mono" x="522.0" y="56" font-size="13" font-weight="700" fill="#f47c7c">03</text>
+    <text class="sans" x="522.0" y="86" font-size="21" font-weight="700" fill="#e6edf3">Analysis</text>
+    <text class="sans" x="522.0" y="112" font-size="14" fill="#8d96a0">Survival curves,</text>
+    <text class="sans" x="522.0" y="131" font-size="14" fill="#8d96a0">tested math</text>
+  </g>
+  <g class="intro c3">
+    <rect x="727.0" y="24" width="196" height="130" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <rect class="g3" x="727.0" y="24" width="196" height="130" rx="14" fill="#2a1517" stroke="#f47c7c" stroke-width="2"/>
+    <text class="mono" x="747.0" y="56" font-size="13" font-weight="700" fill="#f47c7c">04</text>
+    <text class="sans" x="747.0" y="86" font-size="21" font-weight="700" fill="#e6edf3">Product</text>
+    <text class="sans" x="747.0" y="112" font-size="14" fill="#8d96a0">Live web apps and</text>
+    <text class="sans" x="747.0" y="131" font-size="14" fill="#8d96a0">an iOS app</text>
+  </g>
+  <g class="intro c4">
+    <rect x="952.0" y="24" width="196" height="130" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <rect class="g4" x="952.0" y="24" width="196" height="130" rx="14" fill="#2a1517" stroke="#f47c7c" stroke-width="2"/>
+    <text class="mono" x="972.0" y="56" font-size="13" font-weight="700" fill="#f47c7c">05</text>
+    <text class="sans" x="972.0" y="86" font-size="21" font-weight="700" fill="#e6edf3">People</text>
+    <text class="sans" x="972.0" y="112" font-size="14" fill="#8d96a0">Free to use, shaped</text>
+    <text class="sans" x="972.0" y="131" font-size="14" fill="#8d96a0">by real feedback</text>
+  </g>
+  <g class="dot"><circle cx="150.0" cy="176" r="6" fill="#f47c7c"/><circle cx="150.0" cy="176" r="12" fill="#f47c7c" opacity=".18"/></g>
+</svg>

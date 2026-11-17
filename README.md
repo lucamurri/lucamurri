@@ -4,9 +4,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucamurri"><img src="https://img.shields.io/badge/LinkedIn-lucamurri-0A66C2?style=for-the-badge&amp;logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuNiIvPjxyZWN0IHg9IjIuNiIgeT0iOSIgd2lkdGg9IjQuOCIgaGVpZ2h0PSIxMi41Ii8+PHBhdGggZD0iTTEwIDloNC42djEuOWMuNy0xLjIgMi4yLTIuMyA0LjQtMi4zIDMuNiAwIDQuNSAyLjMgNC41IDUuNHY3LjVoLTQuOHYtNi42YzAtMS42LS40LTIuNi0xLjgtMi42LTEuNiAwLTIuMSAxLjItMi4xIDIuOHY2LjRIMTB6Ii8+PC9zdmc+" alt="LinkedIn"></a>
-  <a href="mailto:lmurri@chicagobooth.edu"><img src="https://img.shields.io/badge/Email-Get_in_touch-800000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based_in-Chicago-57606a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Chicago">
+  <a href="https://www.linkedin.com/in/lucamurri"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" width="228" height="46" alt="Connect on LinkedIn"></picture></a>
+  <a href="mailto:lmurri@chicagobooth.edu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" width="140" height="46" alt="Email me"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-location-dark.svg"><img src="assets/btn-location-light.svg" width="144" height="46" alt="Based in Chicago, IL"></picture>
 </p>
 
 <p align="center">
@@ -26,14 +26,12 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="25%"><h2>209</h2><sub>new drugs tracked from approval to patient access</sub></td>
-    <td align="center" valign="top" width="25%"><h2>7</h2><sub>public agencies stitched into one sourced dataset</sub></td>
-    <td align="center" valign="top" width="25%"><h2>80</h2><sub>original consulting cases, free for everyone</sub></td>
-    <td align="center" valign="top" width="25%"><h2>2,091</h2><sub>case numbers verified by automated tests</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://lucamurri.github.io/pharma-access-atlas/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-drugs-dark.svg"><img src="assets/stat-drugs-light.svg" width="200" height="117" alt="209 new drugs tracked from approval to patient access"></picture></a>
+  <a href="https://lucamurri.github.io/pharma-access-atlas/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-agencies-dark.svg"><img src="assets/stat-agencies-light.svg" width="200" height="117" alt="7 public agencies merged into one sourced dataset"></picture></a>
+  <a href="https://lucamurri.github.io/case-interview-engine/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-cases-dark.svg"><img src="assets/stat-cases-light.svg" width="200" height="117" alt="80 original consulting cases, free for everyone"></picture></a>
+  <a href="https://lucamurri.github.io/case-interview-engine/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-checks-dark.svg"><img src="assets/stat-checks-light.svg" width="200" height="117" alt="2,091 case numbers verified by automated tests"></picture></a>
+</p>
 
 ### Featured work
 
@@ -88,14 +86,10 @@ A mobile app that gives homeowners, landlords, tenants and their families one sh
 
 ### How I work
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><b>🔗 Sourced</b><br><sub>Every number traces back to a public source. If it can't be verified, it's flagged, not guessed.</sub></td>
-    <td width="25%" valign="top"><b>🧪 Tested</b><br><sub>Math, data and access rules are checked by automated tests, not by eye.</sub></td>
-    <td width="25%" valign="top"><b>♿ Accessible</b><br><sub>Mobile-first, dark mode, keyboard and screen-reader friendly from day one.</sub></td>
-    <td width="25%" valign="top"><b>🚀 Shipped</b><br><sub>Live early, free to use, and improved from real feedback.</sub></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <img src="assets/pipeline-light.svg" width="100%" alt="How I work: 1 Question, start from a real business problem. 2 Data, public sources with every value cited. 3 Analysis, survival curves and tested math. 4 Product, live web apps and an iOS app. 5 People, free to use and shaped by real feedback.">
+</picture>
 
 ### Toolbox
 
@@ -116,8 +110,10 @@ A mobile app that gives homeowners, landlords, tenants and their families one sh
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucamurri/lucamurri/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/lucamurri/lucamurri/output/github-snake.svg" width="100%" alt="A snake eating my GitHub contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img src="assets/timeline-light.svg" width="100%" alt="Shipping log 2026: July, started HomeDef. October, HomeDef tenant portal. November 4, Pharma Access Atlas and Case Interview Engine go live. November 5, Atlas in four languages and fit-interview practice. November 11, 80 original cases.">
 </picture>
+
+<br>
 
 <p align="center"><i>Always happy to talk strategy, product or healthcare. <a href="https://www.linkedin.com/in/lucamurri">Say hi on LinkedIn</a>.</i></p>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 176" width="300" height="176" role="img" aria-label="2,091 case numbers verified by automated tests">
+  <title>2,091 case numbers verified by automated tests</title>
+  <style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .serif { font-family: Charter, 'Iowan Old Style', Georgia, Cambria, 'Times New Roman', serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fade { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .r0 { animation: r0 1.50s cubic-bezier(.2,.75,.25,1) 0.61s both; }
+  @keyframes r0 { from { transform: translateY(0); } to { transform: translateY(-864px); } }
+  .r2 { animation: r2 1.86s cubic-bezier(.2,.75,.25,1) 0.61s both; }
+  @keyframes r2 { from { transform: translateY(0); } to { transform: translateY(-720px); } }
+  .r3 { animation: r3 2.04s cubic-bezier(.2,.75,.25,1) 0.61s both; }
+  @keyframes r3 { from { transform: translateY(0); } to { transform: translateY(-1368px); } }
+  .r4 { animation: r4 2.22s cubic-bezier(.2,.75,.25,1) 0.61s both; }
+  @keyframes r4 { from { transform: translateY(0); } to { transform: translateY(-792px); } }
+  .lbl { animation: fade .7s ease-out 1.21s both; }
+  </style>
+  <rect x="1" y="1" width="298" height="174" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="54.5" cy="31" r="4" fill="#3ec1ae"/>
+  <text class="sans" x="66.5" y="35.5" font-size="12" font-weight="700" letter-spacing="1.4" fill="#8d96a0">CASE INTERVIEW ENGINE</text>
+  <clipPath id="clip"><rect x="0" y="56.4" width="300" height="63.2"/></clipPath>
+  <g clip-path="url(#clip)">
+    <g class="r0 sans" font-size="62" font-weight="700" fill="#3ec1ae" transform="translate(0,-864)"><text x="84.9" y="106" text-anchor="middle">0</text><text x="84.9" y="178" text-anchor="middle">1</text><text x="84.9" y="250" text-anchor="middle">2</text><text x="84.9" y="322" text-anchor="middle">3</text><text x="84.9" y="394" text-anchor="middle">4</text><text x="84.9" y="466" text-anchor="middle">5</text><text x="84.9" y="538" text-anchor="middle">6</text><text x="84.9" y="610" text-anchor="middle">7</text><text x="84.9" y="682" text-anchor="middle">8</text><text x="84.9" y="754" text-anchor="middle">9</text><text x="84.9" y="826" text-anchor="middle">0</text><text x="84.9" y="898" text-anchor="middle">1</text><text x="84.9" y="970" text-anchor="middle">2</text></g><text class="sans" x="112.8" y="106" font-size="62" font-weight="700" fill="#3ec1ae" text-anchor="middle">,</text><g class="r2 sans" font-size="62" font-weight="700" fill="#3ec1ae" transform="translate(0,-720)"><text x="140.7" y="106" text-anchor="middle">0</text><text x="140.7" y="178" text-anchor="middle">1</text><text x="140.7" y="250" text-anchor="middle">2</text><text x="140.7" y="322" text-anchor="middle">3</text><text x="140.7" y="394" text-anchor="middle">4</text><text x="140.7" y="466" text-anchor="middle">5</text><text x="140.7" y="538" text-anchor="middle">6</text><text x="140.7" y="610" text-anchor="middle">7</text><text x="140.7" y="682" text-anchor="middle">8</text><text x="140.7" y="754" text-anchor="middle">9</text><text x="140.7" y="826" text-anchor="middle">0</text></g><g class="r3 sans" font-size="62" font-weight="700" fill="#3ec1ae" transform="translate(0,-1368)"><text x="177.9" y="106" text-anchor="middle">0</text><text x="177.9" y="178" text-anchor="middle">1</text><text x="177.9" y="250" text-anchor="middle">2</text><text x="177.9" y="322" text-anchor="middle">3</text><text x="177.9" y="394" text-anchor="middle">4</text><text x="177.9" y="466" text-anchor="middle">5</text><text x="177.9" y="538" text-anchor="middle">6</text><text x="177.9" y="610" text-anchor="middle">7</text><text x="177.9" y="682" text-anchor="middle">8</text><text x="177.9" y="754" text-anchor="middle">9</text><text x="177.9" y="826" text-anchor="middle">0</text><text x="177.9" y="898" text-anchor="middle">1</text><text x="177.9" y="970" text-anchor="middle">2</text><text x="177.9" y="1042" text-anchor="middle">3</text><text x="177.9" y="1114" text-anchor="middle">4</text><text x="177.9" y="1186" text-anchor="middle">5</text><text x="177.9" y="1258" text-anchor="middle">6</text><text x="177.9" y="1330" text-anchor="middle">7</text><text x="177.9" y="1402" text-anchor="middle">8</text><text x="177.9" y="1474" text-anchor="middle">9</text></g><g class="r4 sans" font-size="62" font-weight="700" fill="#3ec1ae" transform="translate(0,-792)"><text x="215.1" y="106" text-anchor="middle">0</text><text x="215.1" y="178" text-anchor="middle">1</text><text x="215.1" y="250" text-anchor="middle">2</text><text x="215.1" y="322" text-anchor="middle">3</text><text x="215.1" y="394" text-anchor="middle">4</text><text x="215.1" y="466" text-anchor="middle">5</text><text x="215.1" y="538" text-anchor="middle">6</text><text x="215.1" y="610" text-anchor="middle">7</text><text x="215.1" y="682" text-anchor="middle">8</text><text x="215.1" y="754" text-anchor="middle">9</text><text x="215.1" y="826" text-anchor="middle">0</text><text x="215.1" y="898" text-anchor="middle">1</text></g>
+  </g>
+  <g class="lbl sans" font-size="16" fill="#8d96a0" text-anchor="middle">
+    <text x="150.0" y="138">case numbers verified</text>
+    <text x="150.0" y="159">by automated tests</text>
+  </g>
+</svg>
