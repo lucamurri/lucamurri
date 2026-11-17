@@ -109,11 +109,4 @@ A mobile app that gives homeowners, landlords, tenants and their families one sh
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
-  <img src="assets/timeline-light.svg" width="100%" alt="Shipping log 2026: July, started HomeDef. October, HomeDef tenant portal. November 4, Pharma Access Atlas and Case Interview Engine go live. November 5, Atlas in four languages and fit-interview practice. November 11, 80 original cases.">
-</picture>
-
-<br>
-
 <p align="center"><i>Always happy to talk strategy, product or healthcare. <a href="https://www.linkedin.com/in/lucamurri">Say hi on LinkedIn</a>.</i></p>
