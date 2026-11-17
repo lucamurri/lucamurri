@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Luca Murri</title>
+  <desc id="d">Master in Management, Chicago Booth, Class of 2027. Business strategist who builds. Animated chart of time to drug access in France, Germany, England and Italy.</desc>
+  <style>
+  .serif { font-family: Charter, 'Iowan Old Style', Georgia, Cambria, 'Times New Roman', serif; }
+  .sans  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .mono  { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+  .eyebrow { animation: fade .7s ease-out .1s both; }
+  .name { animation: fade .8s ease-out .25s both; }
+  .rule { transform-origin: 64px 0; animation: grow .9s cubic-bezier(.3,.7,.2,1) .6s both; }
+  .blink { animation: blink 1.05s linear infinite; }
+  @keyframes show0 { 0% {opacity:1} 30.33% {opacity:1} 33.32% {opacity:0} 100% {opacity:0} }
+  @keyframes wipe0 { 0% {transform:scaleX(0); animation-timing-function:steps(31,end)} 12.67% {transform:scaleX(1)} 100% {transform:scaleX(1)} }
+  @keyframes caret0 { 0% {transform:translateX(0px); animation-timing-function:steps(31,end)} 12.67% {transform:translateX(446.4px)} 100% {transform:translateX(446.4px)} }
+  .p0 { animation: show0 15.0s linear 0s infinite; }
+  .p0 .clip { animation: wipe0 15.0s linear 0s infinite; }
+  .p0 .caret { animation: caret0 15.0s linear 0s infinite; }
+  @keyframes show1 { 0% {opacity:1} 30.33% {opacity:1} 33.32% {opacity:0} 100% {opacity:0} }
+  @keyframes wipe1 { 0% {transform:scaleX(0); animation-timing-function:steps(42,end)} 12.67% {transform:scaleX(1)} 100% {transform:scaleX(1)} }
+  @keyframes caret1 { 0% {transform:translateX(0px); animation-timing-function:steps(42,end)} 12.67% {transform:translateX(604.8px)} 100% {transform:translateX(604.8px)} }
+  .p1 { animation: show1 15.0s linear -10.0s infinite; }
+  .p1 .clip { animation: wipe1 15.0s linear -10.0s infinite; }
+  .p1 .caret { animation: caret1 15.0s linear -10.0s infinite; }
+  @keyframes show2 { 0% {opacity:1} 30.33% {opacity:1} 33.32% {opacity:0} 100% {opacity:0} }
+  @keyframes wipe2 { 0% {transform:scaleX(0); animation-timing-function:steps(36,end)} 12.67% {transform:scaleX(1)} 100% {transform:scaleX(1)} }
+  @keyframes caret2 { 0% {transform:translateX(0px); animation-timing-function:steps(36,end)} 12.67% {transform:translateX(518.4px)} 100% {transform:translateX(518.4px)} }
+  .p2 { animation: show2 15.0s linear -5.0s infinite; }
+  .p2 .clip { animation: wipe2 15.0s linear -5.0s infinite; }
+  .p2 .caret { animation: caret2 15.0s linear -5.0s infinite; }
+  .k0 { stroke-dasharray:480; stroke-dashoffset:480; animation: draw 2.4s cubic-bezier(.3,.7,.2,1) 0.50s both; }
+  .l0 { animation: fade .6s ease-out 2.50s both; }
+  .k1 { stroke-dasharray:480; stroke-dashoffset:480; animation: draw 2.4s cubic-bezier(.3,.7,.2,1) 0.85s both; }
+  .l1 { animation: fade .6s ease-out 2.85s both; }
+  .k2 { stroke-dasharray:456; stroke-dashoffset:456; animation: draw 2.4s cubic-bezier(.3,.7,.2,1) 1.20s both; }
+  .l2 { animation: fade .6s ease-out 3.20s both; }
+  .k3 { stroke-dasharray:440; stroke-dashoffset:440; animation: draw 2.4s cubic-bezier(.3,.7,.2,1) 1.55s both; }
+  .l3 { animation: fade .6s ease-out 3.55s both; }
+  @media (prefers-reduced-motion: reduce) {
+    *, .clip, .caret, .blink { animation: none !important; }
+    [class^="k"] { stroke-dashoffset: 0 !important; }
+    .p1, .p2 { opacity: 0 !important; }
+  }
+  </style>
+
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <text class="sans eyebrow" x="64" y="86" font-size="14" font-weight="600" letter-spacing="2.2" fill="#f47c7c">MASTER IN MANAGEMENT  ·  CHICAGO BOOTH  ·  CLASS OF 2027</text>
+  <text class="serif name" x="60" y="168" font-size="76" font-weight="700" fill="#e6edf3" letter-spacing="-1">Luca Murri</text>
+  <rect class="rule" x="64" y="190" width="72" height="4" rx="2" fill="#f47c7c"/>
+
+  <text class="mono" x="64" y="252" font-size="24" font-weight="700" fill="#f47c7c">›</text>
+  <g transform="translate(100,252)">
+    <g class="p0">
+      <clipPath id="c0"><rect class="clip" x="0" y="-30" width="450.4" height="44"/></clipPath>
+      <text class="mono" x="0" y="0" textLength="446.4" font-size="24" fill="#e6edf3" clip-path="url(#c0)">Business strategist who builds.</text>
+      <g class="caret" transform="translate(446.4,0)"><rect class="blink" x="3" y="-21" width="11" height="26" rx="1.5" fill="#f47c7c"/></g>
+    </g>
+    <g class="p1" opacity="0">
+      <clipPath id="c1"><rect class="clip" x="0" y="-30" width="608.8" height="44"/></clipPath>
+      <text class="mono" x="0" y="0" textLength="604.8" font-size="24" fill="#e6edf3" clip-path="url(#c1)">From business question to shipped product.</text>
+      <g class="caret" transform="translate(604.8,0)"><rect class="blink" x="3" y="-21" width="11" height="26" rx="1.5" fill="#f47c7c"/></g>
+    </g>
+    <g class="p2" opacity="0">
+      <clipPath id="c2"><rect class="clip" x="0" y="-30" width="522.4" height="44"/></clipPath>
+      <text class="mono" x="0" y="0" textLength="518.4" font-size="24" fill="#e6edf3" clip-path="url(#c2)">Strategy · Product · Healthcare · AI</text>
+      <g class="caret" transform="translate(518.4,0)"><rect class="blink" x="3" y="-21" width="11" height="26" rx="1.5" fill="#f47c7c"/></g>
+    </g>
+  </g>
+
+  <g class="chart">
+    <line x1="790" y1="70" x2="790" y2="250" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="790" y1="250" x2="1110" y2="250" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="790" y1="164.0" x2="1110" y2="164.0" stroke="#30363d" stroke-width="1" stroke-dasharray="4 5"/>
+    <text class="mono" x="782" y="168.0" font-size="11" fill="#8d96a0" text-anchor="end">50%</text>
+        <path class="k0" d="M790.0,250.0 H803.5 V229.9 H823.1 V204.9 H833.7 V193.0 H858.6 V169.5 H874.6 V157.0 H896.0 V142.9 H908.4 V135.9 H936.8 V122.6 H954.6 V115.9 H977.7 V108.6 H1009.7 V100.8 H1036.4 V95.8 H1075.5 V90.5 H1109.3 V90.0 H1110.0" fill="none" stroke="#58a6ff" stroke-width="3.2" stroke-linejoin="round"/>
+    <path class="k1" d="M790.0,250.0 H814.9 V217.5 H830.9 V200.0 H852.2 V180.0 H864.7 V169.8 H893.1 V150.3 H910.9 V140.3 H934.0 V129.3 H966.0 V117.2 H992.7 V109.3 H1031.8 V100.6 H1065.6 V95.0 H1079.1 V93.2 H1098.6 V90.9 H1109.3 V89.8 H1110.0" fill="none" stroke="#e3b341" stroke-width="3.2" stroke-linejoin="round"/>
+    <path class="k2" d="M790.0,250.0 H802.4 V239.9 H830.9 V218.9 H848.7 V207.1 H871.8 V193.3 H903.8 V176.7 H930.4 V164.6 H969.6 V149.5 H1003.3 V138.7 H1016.8 V134.8 H1036.4 V129.6 H1047.1 V127.0 H1072.0 V121.4 H1088.0 V118.1 H1109.3 V114.1 H1110.0" fill="none" stroke="#f778ba" stroke-width="3.2" stroke-linejoin="round"/>
+    <path class="k3" d="M790.0,250.0 H813.1 V235.8 H845.1 V218.0 H871.8 V204.7 H910.9 V187.5 H944.7 V174.5 H958.2 V169.8 H977.7 V163.3 H988.4 V160.0 H1013.3 V152.7 H1029.3 V148.4 H1050.6 V143.0 H1063.1 V140.0 H1091.5 V133.8 H1109.3 V130.2 H1110.0" fill="none" stroke="#3fb950" stroke-width="3.2" stroke-linejoin="round"/>
+        <text class="mono l0" x="1120" y="107.8" font-size="12" fill="#58a6ff">FR</text>
+    <text class="mono l1" x="1120" y="93.8" font-size="12" fill="#e3b341">DE</text>
+    <text class="mono l2" x="1120" y="121.8" font-size="12" fill="#f778ba">EN</text>
+    <text class="mono l3" x="1120" y="135.8" font-size="12" fill="#3fb950">IT</text>
+    <text class="mono" x="790" y="274" font-size="11.5" fill="#8d96a0">days from EU approval to national access →</text>
+  </g>
+</svg>
