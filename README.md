@@ -67,14 +67,14 @@
 </table>
 
 <details>
-  <summary><b>📈 Three findings from the Pharma Access Atlas</b> <sub>(click to expand)</sub></summary>
+  <summary><b>📈 Three US findings from the Pharma Access Atlas</b> <sub>(click to expand)</sub></summary>
   <br>
 
-  1. **EU approval is only the start.** It came a median of **213 days** after the FDA's. Counting from EU approval, half of new drugs had a French HAS opinion within **212 days**, a German G-BA decision within **232**, English NICE guidance within **399** and Italian reimbursement within **522**.
-  2. **Most new drugs show no added benefit in Germany.** Of the 116 drugs assessed against an existing therapy, **72% showed no added benefit** for any patient group.
-  3. **"No added benefit" in Germany often still means "yes" in England.** Of the 63 drugs Germany rated as having no added benefit that NICE also appraised, **81% received a positive NICE decision**, because NICE judges value for money at the price offered.
+  1. **The US approves most new drugs first.** The FDA approved **170 of the 209 drugs (81%)** before the EU did, and EU approval followed a median **213 days** later. The gap was much shorter for 2022 approvals (**124 days**) than for 2019 approvals (**346 days**).
+  2. **Fast-track review is the norm.** **66%** of the drugs with a recorded review type got FDA priority review, a six-month target instead of ten, and **60%** carried a US orphan designation.
+  3. **Medicare negotiation can cut prices sharply, but only years after launch.** CMS set a single Medicare price for semaglutide (Ozempic, Rybelsus, Wegovy): **$274** per 30-day supply from 2027, **71% below** the $959 list price it reports for 2024. None of the 209 newer drugs has a negotiated price yet.
 
-  <sub>Data as of 11 November 2026, with drugs still waiting counted using Kaplan–Meier curves. Full analysis on the <a href="https://lucamurri.github.io/pharma-access-atlas/insights.html">Insights page</a>. The project grew out of my <a href="https://tesi.luiss.it/45530/">bachelor thesis</a> on drug pricing and reimbursement in Europe and the United States.</sub>
+  <sub>Data as of 11 November 2026, and every value links to its public source. More on the Atlas's <a href="https://lucamurri.github.io/pharma-access-atlas/united-states.html">United States page</a> and <a href="https://lucamurri.github.io/pharma-access-atlas/insights.html">Insights page</a>. The project grew out of my <a href="https://tesi.luiss.it/45530/">bachelor thesis</a> on drug pricing and reimbursement in Europe and the United States.</sub>
 </details>
 
 ### In development
